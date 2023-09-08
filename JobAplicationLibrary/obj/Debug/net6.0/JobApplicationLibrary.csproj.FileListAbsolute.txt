@@ -1,0 +1,12 @@
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\bin\Debug\net6.0\JobApplicationLibrary.deps.json
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\bin\Debug\net6.0\JobApplicationLibrary.dll
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\bin\Debug\net6.0\JobApplicationLibrary.pdb
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.csproj.AssemblyReference.cache
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.AssemblyInfoInputs.cache
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.AssemblyInfo.cs
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.dll
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\refint\JobApplicationLibrary.dll
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.pdb
+C:\Users\tuna\source\repos\UnitTestÖrnek\JobAplicationLibrary\obj\Debug\net6.0\ref\JobApplicationLibrary.dll
